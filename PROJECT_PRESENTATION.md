@@ -1,3 +1,11 @@
+# The Traitors Codewars challenge
+
+## Overview
+Create a kata allowing  your fellow bootcampers to level up their skills by tackling a challenge of your creation.
+Write unit tests to check whether their solution to your task is correct
+Present your project plan, story, and anything else you feel supports your creation process and final outcome in a document
+
+## Instructions
 
 Welcome to The Traitors' Castle!
 
@@ -24,3 +32,23 @@ Victory Awaits: Once you've successfully identified the murdered Faithful and up
 **npm test**
 
 But beware—if you make a mistake, the Traitors might strike again...
+
+<details>
+ <summary>Click here for a hint!</summary>
+Remember, when identifying the murdered traitor, the murdered faithful's name could be in sentence case, upper case, or lower case.
+</details>
+
+## Planning Phase
+
+### Project Requirements
+- Primary objective was to develop a working kata using Test Driven Development
+
+### Timeline
+- A Hackathon Project completed as a part of the school of code over two days
+
+## Brainstorming
+- Disney Ideation method
+- Flow Diagram
+
+### Progress Tracking
+- Jira was used to create tasks and track progress throughout
