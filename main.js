@@ -1,4 +1,4 @@
-export function removeMurdered(faithfuls, murdered) {
-  
+ export function removeMurdered(faithfuls, murdered) {
+
 }
 
